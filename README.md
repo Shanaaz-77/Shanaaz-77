@@ -18,7 +18,7 @@
 ## 📫 How to reach me:
 - GitHub: [github.com/Shanaaz-77](https://github.com/Shanaaz-77)
 - Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/shanaaz](https://linkedin.com/in/shanaazshaik)
+- LinkedIn: [linkedin.com/in/shanaaz](https://linkedin.com/in/shanaaz shaik)
 
 ## 😄 Pronouns:
 - She/Her
