@@ -35,12 +35,6 @@
 * 🔹 FreshMart Demand Intelligence
   A smart retail operations dashboard for a fictional grocery chain, providing real-time insights into sales, stock levels, and demand trends to help managers make faster, data-driven decisions.
   
-* 🔹Smart Community Health Monitoring System (SIH 2025)
-  A team project focused on predicting and preventing water-borne diseases in rural areas using AI/ML and IoT, enabling early warnings through alerts and improving community health response.
-  
-* 🔹 IBM Quantum Network Dashboard (SIH Hackathon)
-A real-time web-based platform to track and visualize IBM Quantum jobs, offering live updates, device details, and a demo mode to enhance accessibility for students and researchers.
-
 * 🔹 Python-based mini projects
 
 * 🔹 Frontend projects using HTML, CSS, JavaScript
